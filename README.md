@@ -47,7 +47,7 @@ This dashboard delivers **actionable business insights** using interactive visua
 ### 4️⃣ Monthly Revenue & Shipments (YoY)
 - Month-wise trends  
 - Last year comparison  
-- 12-month variance analysis  
+- 13-month variance analysis  
 
 ---
 
@@ -61,7 +61,7 @@ This dashboard delivers **actionable business insights** using interactive visua
 ---
 
 ## 📐 DAX Highlights
-- Time Intelligence (YoY, PY, 12M Variance)
+- Time Intelligence (YoY, PY, 13M Variance)
 - Profit % calculations
 - Dynamic KPI measures
 - Context-aware filtering
@@ -101,22 +101,22 @@ This dashboard delivers **actionable business insights** using interactive visua
 *Below are selected snapshots of the interactive Power BI dashboard showcasing key insights.*
 
 ### 🔹 Analysis Report
-![Analysis Report](Screenshots/Analysis_Report.png)
+![Analysis Report](https://github.com/shaikjeelan464/Awesome-Chocolates-Power-BI-Sales-Analytics-Dashboard/blob/main/Analysis%20Dashboard%20Report.png)
 
 ---
 
 ### 🔹 Salesperson Analysis
-![Salesperson Analysis](Screenshots/Salesperson_Analysis.png)
+![Salesperson Analysis](https://github.com/shaikjeelan464/Awesome-Chocolates-Power-BI-Sales-Analytics-Dashboard/blob/main/Salesperson%20Analysis.png)
 
 ---
 
 ### 🔹 Geo Analysis
-![Geo Analysis](Screenshots/Geo_Analysis.png)
+![Geo Analysis](https://github.com/shaikjeelan464/Awesome-Chocolates-Power-BI-Sales-Analytics-Dashboard/blob/main/Geo%20Analysis.png)
 
 ---
 
 ### 🔹 Monthly Revenue & Shipments (YoY)
-![Monthly Revenue & Shipments](Screenshots/Monthly_Revenue_Shipments.png)
+![Monthly Revenue & Shipments](https://github.com/shaikjeelan464/Awesome-Chocolates-Power-BI-Sales-Analytics-Dashboard/blob/main/Montly%20Revenue%20%26%20Shipments%20Analysis.png)
 
 ---
 
